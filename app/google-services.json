@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "444324204133",
+    "project_id": "newsnow-a9aa6",
+    "storage_bucket": "newsnow-a9aa6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444324204133:android:17ebeba62a2f02e1ce808c",
+        "android_client_info": {
+          "package_name": "com.example.newsnow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF0XSv_N2uoM-ShG9XQ4GhqMKSjFpCp6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
